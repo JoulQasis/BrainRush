@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BrainRush/static/css/main.0a77bed8.css",
+    "main.js": "/BrainRush/static/js/main.45913b7f.js",
+    "static/media/elephant.png": "/BrainRush/static/media/elephant.37c4c22f26d6101b9206.png",
+    "static/media/MemoryMatch.gif": "/BrainRush/static/media/MemoryMatch.33ba799fd723dff7a91f.gif",
+    "static/media/QuickReflexes.gif": "/BrainRush/static/media/QuickReflexes.ae28327ad069475071d6.gif",
+    "static/media/12.jpg": "/BrainRush/static/media/12.cf9b5cc795e5285db5d9.jpg",
+    "static/media/Math.gif": "/BrainRush/static/media/Math.54458deb058fe1f043ed.gif",
+    "static/media/panda.png": "/BrainRush/static/media/panda.fb7020919ecbfc5f0ae1.png",
+    "static/media/bee.png": "/BrainRush/static/media/bee.16fe399b974a1bd8cee9.png",
+    "static/media/penguin.png": "/BrainRush/static/media/penguin.1be4e2a82b231525279d.png",
+    "static/media/cat.png": "/BrainRush/static/media/cat.6f92c5629b0ba027f2db.png",
+    "static/media/frog.png": "/BrainRush/static/media/frog.69b706cc09c188c1cd44.png",
+    "static/media/MatchMemoryStatic.png": "/BrainRush/static/media/MatchMemoryStatic.3a7beb74faa5a9dcdad4.png",
+    "static/media/hamburger.png": "/BrainRush/static/media/hamburger.f59f8349e5436d0b120f.png",
+    "static/media/QuickReflexStatic.png": "/BrainRush/static/media/QuickReflexStatic.698ae9a62d6c574e44f5.png",
+    "static/media/1.jpg": "/BrainRush/static/media/1.08302d50f9996cb0188b.jpg",
+    "static/media/fries.png": "/BrainRush/static/media/fries.5dea42ce010c506ef930.png",
+    "static/media/dog.png": "/BrainRush/static/media/dog.255d0633b5bfa392cc32.png",
+    "static/media/13.jpg": "/BrainRush/static/media/13.71bf47547474eb7bfd75.jpg",
+    "static/media/pizza.png": "/BrainRush/static/media/pizza.f92e59082473f3442edd.png",
+    "static/media/hotdog.png": "/BrainRush/static/media/hotdog.ca4f62b411d601ec2f59.png",
+    "static/media/blank.jpg": "/BrainRush/static/media/blank.e2d629f1faff2b9e3c4f.jpg",
+    "static/media/MathStatic.png": "/BrainRush/static/media/MathStatic.b2375b96785bae4f5762.png",
+    "static/media/pick.jpg": "/BrainRush/static/media/pick.12429cfd5dcbfc4b5595.jpg",
+    "static/media/icon.png": "/BrainRush/static/media/icon.40ac6cfcdc0d11f83826.png",
+    "index.html": "/BrainRush/index.html",
+    "main.0a77bed8.css.map": "/BrainRush/static/css/main.0a77bed8.css.map",
+    "main.45913b7f.js.map": "/BrainRush/static/js/main.45913b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a77bed8.css",
+    "static/js/main.45913b7f.js"
+  ]
+}
