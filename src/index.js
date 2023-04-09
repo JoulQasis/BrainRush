@@ -4,6 +4,7 @@ import { Provider } from "react-redux";
 import { store } from "./store";
 import App from "./App";
 import { configureStore } from "@reduxjs/toolkit";
+import { disableReactDevTools } from "@fvilers/disable-react-devtools";
 import {
 
   persistStore,
@@ -50,6 +51,7 @@ const myStore = configureStore({
 
 });
 
+if (process.env.NODE_ENV === "production") disableReactDevTools();
 const root = document.getElementById("root");
 ReactDOM.createRoot(root).render(
   <React.StrictMode>

@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import { Button, Col, Container, Row } from "react-bootstrap";
 import React, { useState } from 'react';
 import './Content.css'
-import axios from "axios";
 import { useSelector } from "react-redux";
 
 function Content() {
