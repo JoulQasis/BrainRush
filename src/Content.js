@@ -5,7 +5,6 @@ import React, { useState } from 'react';
 import './Content.css'
 import axios from "axios";
 import { useSelector } from "react-redux";
-axios.defaults.withCredentials = true;
 
 function Content() {
   const [isHover, setIsHover] = useState(false);
@@ -50,7 +49,7 @@ function Content() {
         <img
           className={contentCss.img}
           src={require("./imges/1.jpg")}
-          alt="Landing page image"
+          alt="Landing page"
         ></img>
         <figcaption id="test" className={contentCss.figcaption}>
           Make your brain sharper <br></br> with this Brain Games!
@@ -121,11 +120,13 @@ function Content() {
               <img
                 className={contentCss.Giffs}
                 src={require("./imges/Math.gif")}
+                alt="gifs"
               />
             ) : (
               <img
                 className={contentCss.Giffs}
                 src={require("./imges/MathStatic.png")}
+                alt="gifs"
               />
             )
             }
@@ -154,11 +155,13 @@ function Content() {
                 <img
                   className={contentCss.Giffs2}
                   src={require("./imges/MemoryMatch.gif")}
+                  alt="gifs"
                 />
               ) : (
                 <img
                   className={contentCss.Giffs2}
                   src={require("./imges/MatchMemoryStatic.png")}
+                  alt="gifs"
                 />
               )
               }
@@ -183,11 +186,13 @@ function Content() {
               <img
                 className={contentCss.Giffs}
                 src={require("./imges/QuickReflexes.gif")}
+                alt="gifs"
               />
             ) : (
               <img
                 className={contentCss.Giffs}
                 src={require("./imges/QuickReflexStatic.png")}
+                alt="gifs"
               />
             )
             }

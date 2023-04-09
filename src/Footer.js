@@ -12,7 +12,7 @@ function Footer()
       <Container className={footerCss.footer} fluid>
         <Row className="rows">
           <Col className={footerCss.divC} md={{ span: 1, offset: 2 }}>
-            <img className={footerCss.icon} src={icon}></img>
+            <img className={footerCss.icon} src={icon} alt="Footer-icon"></img>
           </Col>
           <Col className={footerCss.divC} md={{ span: 1, offset: 0 }}>
             <h4>BrainRush</h4>

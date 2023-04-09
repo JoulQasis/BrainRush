@@ -12,10 +12,7 @@ function Mathmatics() {
   const [stop, setStop] = useState(false);
 
   // Game variables
-  let problem;
-  var toSwap;
-  var num1;
-  var num2;
+
   let level = 1;
 
   // Generate a random math problem
